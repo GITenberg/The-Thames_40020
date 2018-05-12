@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9224
     wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40020#The-Thames
 gutenberg_issued: '2012-06-17'
 gutenberg_type: Text
 identifiers:
